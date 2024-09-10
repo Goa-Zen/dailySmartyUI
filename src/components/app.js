@@ -15,13 +15,7 @@ export default class App extends Component {
 
             <SearchBar/>
 
-          <div className="recent">
-            <ul>
-              <li>post</li>
-              <li>post</li>
-              <li>post</li>
-            </ul>
-          </div>
+            <RecentPosts/>
 
         </div>
       </div>
